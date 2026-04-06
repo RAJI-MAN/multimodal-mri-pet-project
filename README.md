@@ -4,7 +4,7 @@
 - Machine learning prediction (Random Forest)
 - Multimodal imaging concept (MRI → PET)# multimodal-mri-pet-project
 MRI-based prediction of PET-like biomarkers using machine learning
-![Prediction](images/prediction_plot.png)
+![Prediction]![Prediction](download.png)
 # MRI-based Prediction of PET-like Biomarker
 
 ## Overview
@@ -19,7 +19,7 @@ This project demonstrates a simplified multimodal imaging workflow inspired by P
 ## Results
 The model demonstrated a positive correlation between MRI-derived features and simulated PET signals.
 
-![Prediction](images/prediction_plot.png)
+![Prediction](download.png)
 
 ## Clinical Relevance
 This project reflects ongoing research in multimodal imaging, where MRI-based biomarkers are explored as potential alternatives to PET for assessing tumour hypoxia and biological activity.
