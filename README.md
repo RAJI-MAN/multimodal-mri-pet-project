@@ -4,3 +4,4 @@
 - Machine learning prediction (Random Forest)
 - Multimodal imaging concept (MRI → PET)# multimodal-mri-pet-project
 MRI-based prediction of PET-like biomarkers using machine learning
+![Prediction](images/prediction_plot.png)
